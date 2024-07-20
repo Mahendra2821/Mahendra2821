@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **Node js , React js ,Sql, DSA with Python**
+- 🌱 I’m currently learning **Node js, React js, DSA with Python**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **𝙿𝚢𝚝𝚑𝚘𝚗, 𝚂𝚚𝚕, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱, 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝚁𝚎𝚊𝚌𝚝 𝚓𝚜, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙷𝚃𝙼𝙻 & 𝙲𝚂𝚂, 𝙳𝚂𝙰 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙹𝚊𝚟𝚊**
 
 - 📫 How to reach me **mahe@939894@gmail.com**
 
